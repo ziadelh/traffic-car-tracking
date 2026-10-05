@@ -1,6 +1,6 @@
 # Traffic Car Detection, Tracking and Counting
 
-Detecting, tracking and counting cars in traffic-camera footage from Laramie, Wyoming, with classical computer vision only (OpenCV, no machine learning).
+Detecting, tracking and counting cars in traffic-camera footage from Laramie, Wyoming, with classical computer vision only (OpenCV, no machine learning). It is built on frame differencing, background subtraction and Kalman filters, with no pre-trained detector.
 
 <table>
   <tr>
