@@ -1,0 +1,5 @@
+*.mp4
+exercise1_out/
+exercise1_out_task2/
+.ipynb_checkpoints/
+__pycache__/
